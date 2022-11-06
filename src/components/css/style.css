@@ -262,6 +262,7 @@ body>span {
 .date_time {
     font-size: 1.3rem;
     margin-bottom: 1rem;
+    padding-top: 1rem;
     padding-bottom: 2rem;
     /* margin-top: 1rem; */
     background-color: #043963;
